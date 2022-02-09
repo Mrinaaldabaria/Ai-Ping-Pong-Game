@@ -1,0 +1,9 @@
+body
+{
+   text-align: center;
+}
+
+button{
+    float: right;
+    border: 1px solid white;
+}
